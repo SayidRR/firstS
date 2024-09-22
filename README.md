@@ -1,0 +1,2 @@
+# firstS
+my first project
