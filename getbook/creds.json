@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sanguine-fusion-436312-j0",
+  "private_key_id": "a443f78a4d921c83b7dbbd8fedab6a7d9965c1f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNrY7kDcMTTw4k\nxOlgd5tu9ku7pw3I8KJkJAqlubk5aUzeXnsavSmKOoJBjd2OrDC6grhuBwLjp+6s\nWKfWnn2XwM4SpUx5hXHflJ47eg3EnP/tXUgFsBEmLVxco9SPyqMssjpatKiZSyB7\n77uYxcXEtGEjZBJh2J9cXDfu7xkhbAB0hoya9uS3JG+mpXMpma1C1j919bEXVjH5\n07eTIw7IQSYPo2VBhIDIzdKqR2kXk0X9jAC+g+piLCVnVMyUsDKUd4628ZF2JA14\nnpm9fH4ZRy2OEsQUk+LrrvyNlj1XofNHN+Rlj3XRQiAJxbpZFVszm1lWysoX8DPN\n4qVNhbZdAgMBAAECggEAA+nZrSnYuZ2HtDMp9gAzOKaVAz6Hx4UnQFO+idVgo9np\nV/H7BtRXY7Dw6CfMLclKs9wxqbPRBS+wnu2K2eLQAwWr0CEue5qPeGa006adur5S\nU3MJU2gJo4RUGxZrbUQ99H4cZ64oHqYrdmWESQ92neYUf67oie/x5K2C3gRzmvix\np7enRzEl4UndK0Na9Yni0xu2XyamNDCL2Ij4zA2I/9Vd7P6Ry/3dbFt1Ph78crKd\nhHn7BHh2eot4c9KQ1pa9h1j3I91l5+MPJDAOd3DWm12mC0YFdkm+s4c4M15MRnDX\ndtYGIggNSeht0DHYzC+4uVTOAjT4w87W0CF5TTn2AQKBgQDFzF/yepS424WliuOi\nuBV1wiUXlXoMgRaQqulN0K3GB1uT/AR/OPzzFbKnVdDA3FvXFfnnslyS/l5febDo\np0tmycZb3a9+t9fdJXkZdFy7Z/F9FhdSerZKTHFKHYKsQxyUUXiAmKZBt+6+nzw5\nNvgIaK4/2FqvV8jcId4dT0YSswKBgQC3Xciu+gUr1ilZ3kTQJ8fh8q06tExXGDP9\nHW0iQtsIzWkerAkW9syvz0Orl2vJ7r4wz4+VY0HqCQXqOvNkknajVbvBhOYvu7ym\nP92xANF9vAvLAUQRJzrzg0CQS0dVlO2/fYmD9EdcOc9hKpXO/LUx1fE7vBO5gk+J\nmGvss8RarwKBgGBw369ImU7wqd8nMwpZmw0JljBDj3idUDVFP+/S+Yd+euZSkJa/\nYIXdZHg2XUxLpPPgITMZQg3hvH3sxZcKSrdZVj/gfPraBIQtCzigBb7SVWpZ5REw\nB8V+NBahAN+g8URX3NtGknmkhuGmniR/arwe3ib/BGhN8v9x++xqhI4FAoGAYNO+\nOF/AQVC6z0Dm14BaNX8/aINy2H7oXR2f1nq1TSWi/9ZaimzS03fARSkVezF97yp7\nqKgcU2hmXjS49/+7dC6+kccLAmPBj4ykFWbYOOwG0jEd72zm3VYOzuNhjNiy3u58\nolhpIlNIpgelygJ58BIIa8G6LLiaJY9+ViTrZ/MCgYAkeHtlqFCLFl3dalHNxznf\n2E2Hp7f5B2lpcJF4WfUKSa6PX3OoD795EaT1HYB0X5TDKf1g33mOnrX2nQfDhFGr\n9rZthPmdIXgO9/aa766FCjjo1yyUcz3jFMeX3vN+SuPcOAEnDYlc8MElaLWxaM2N\nwQqOYBh/Lf+HCAwbsiSpwA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "books-get-sayid@sanguine-fusion-436312-j0.iam.gserviceaccount.com",
+  "client_id": "107796079200871755004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/books-get-sayid%40sanguine-fusion-436312-j0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
